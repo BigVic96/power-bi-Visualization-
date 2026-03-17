@@ -1,0 +1,44 @@
+#Car Sales Interactive Dashboard 🚗
+
+#Project Overview
+This Power BI dashboard provides a comprehensive analysis of car sales performance, designed to help stakeholders track key sales metrics, identify trends, and analyze regional performance.
+Key Performance Indicators (KPIs)
+Total Sales (YTD): $371.2M (with Year-to-Date and Month-to-Date comparisons).
+Average Sales Price: $28K.
+Total Cars Sold: 13K units.
+
+# Objectives
+The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI.
+The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+
+#Tool Used 
+Power bi
+
+# KPI
+Total Sales (YTD): $371.2M (with Year-to-Date and Month-to-Date comparisons).
+Average Sales Price: $28K.
+Total Cars Sold: 13K units.
+
+#Insights
+Identified SUV and Hatchback models as the primary sales drivers.
+Visualized regional sales hotspots to assist in inventory distribution.
+Tracked manufacturer performance (e.g., Chevrolet and Ford) against average sales benchmarks.
+
+#How to view this project:
+Download the .pbix file from this folder.
+Open it using Power BI Desktop.
+(Optional: If you have a live link, add it here)
+
+
+
+# Additional
+Growth Tracking: Visual indicators showing percentage growth/decline for sales and volume.
+Technical Features
+Data Modeling: Integrated sales data across multiple dimensions including Body Style, Transmission, and Engine types.
+Advanced Visualizations:
+Area Chart: Weekly sales trends over time.
+Map Integration: Geographic distribution of sales across different regions.
+Donut & Bar Charts: Breakdown of sales by car type and manufacturer.
+Interactivity: Built-in Slicers for Body Style, Transmission, and Engine to allow for deep-dive filtering.
+Dynamic Navigation: Custom sidebar menu for easy switching between Overview and Details views.
+Insights & Impact
