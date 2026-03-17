@@ -1,0 +1,31 @@
+# Pizza Sales Analysis
+
+#Project Overview
+This Power BI dashboard analyzes a year, worth of pizza sales data to uncover key insights into customer preferences, peak sales periods, and revenue drivers.
+It provides a high-level overview of sales performance to help optimize inventory and marketing strategies.
+
+#Tool Used
+Power BI
+
+#KPI
+Total Revenue: $817.86K.
+Total Orders: 21.35K.
+Average Order Value (AOV): $38.31.
+Total Pizzas Sold: 49.57K.
+Average Pizzas Per Order: 2.32.
+
+
+#How to view this project:
+Download the .pbix file from this folder.
+Open it using Power BI Desktop.
+
+
+
+#insights
+Peak Volume: Friday evenings generate the highest revenue (~$136K), suggesting a need for increased staffing.
+Customer Choice: The "Classic" category leads in sales volume, while "Large" pizzas account for nearly half of all sales.
+Seasonality: Sales remained relatively stable throughout the year, with a slight dip in the latter months.
+The Thai Chicken Pizza is the no.1 bestseller, contributing $43.43K in revenue.
+Customer Favorites: Following closely are the Barbecue Chicken ($42.77K) and California Chicken ($41.41K), showing a strong consumer preference for chicken-based pizzas.
+Menu Optimization: Identified the Brie Carre Pizza as a lower-tier performer in the top 5 ($11.59K revenue), highlighting potential areas for menu review or targeted promotion.
+Volume vs. Value: While the Classic Deluxe has lower total revenue than the Thai Chicken, it maintains high order frequency, suggesting it is a staple "volume" item for the business.
