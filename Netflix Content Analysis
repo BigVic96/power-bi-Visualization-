@@ -1,0 +1,23 @@
+## Netflix Content Analysis
+
+#Project Overview
+his project delivers an end-to-end business intelligence solution analyzing Netflix’s global library of movies and TV shows.
+
+##Tools Used
+Python
+Power BI
+
+## Data Exploration & Manipulation
+- Handled missing null values across fields like director, country columns etc
+- Handled comma-separated strings cells without distorting the raw data set (Cast, Countries, Genres)
+- created clean isolated dimension/bridge dataset for comma-seperated strings cells 
+- Standardized text strings into datetime
+- Exported clean primary facts and dimension tables for Power BI Integration
+
+## Data modelling and analytics(Power BI)
+- Data Modelling: star/snowflake schema
+- Dax and Date
+- Dashboard creation
+
+
+
