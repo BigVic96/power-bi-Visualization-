@@ -26,7 +26,7 @@ Open it using power bi
 
 <img width="1093" height="582" alt="Screenshot 2026-07-19 205305" src="https://github.com/user-attachments/assets/8c8ae57e-7351-4309-b45f-bfa2dd6018d4" />
 <img width="1077" height="583" alt="Screenshot 2026-07-19 205345" src="https://github.com/user-attachments/assets/bb6b24aa-1dfc-43e8-b1ae-f398eb20f3fc" />
-### open pbix file to view the whole dashboard
+### open pbix file to view all dashboards
 
 
 
